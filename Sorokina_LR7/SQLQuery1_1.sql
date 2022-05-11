@@ -1,0 +1,10 @@
+USE [stud13AdventureWorks]
+GO
+
+SET ANSI_NULLS ON
+GO
+SET QUOTED_iDENTIFIER ON
+GO
+
+CREATE SCHEMA [HumanResources]
+GO
